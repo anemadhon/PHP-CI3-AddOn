@@ -1,0 +1,8 @@
+table th{
+    background-color: #2196f3;
+    color: white;
+}
+
+table.dataTable thead th, table.dataTable thead td{
+    border-bottom: 0;
+}
